@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost PriorityERPNET"
+  DTS:DTSID="{8DD53B50-0A5E-4111-B7B4-DE0DA6C547C1}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=PriorityERP;Integrated Security=True;Application Name=SSIS-FinalProjectCOURSE-{8DD53B50-0A5E-4111-B7B4-DE0DA6C547C1}localhost.PriorityERP1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
